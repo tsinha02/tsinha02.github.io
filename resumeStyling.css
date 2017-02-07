@@ -11,6 +11,11 @@ h3 {
 	font-weight: bold;
 }
 
+#image {
+	height : 100px;	
+	width : 100px;	
+}
+
 #myname {
 	text-align: center;
 	font-weight: bold;
