@@ -9,31 +9,46 @@ h3 {
 	font-size: 24px ;
 	color: DarkBlue;
 	font-weight: bold;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+p{
+	margin-top: 1px;
 }
 
 #myname {
 	text-align: center;
 	font-weight: bold;
 	font-size: 32px;
+	margin-bottom: 1px;
 }
 
 .title {
 	font-size: 28px;
 	font-weight: bold;
+	margin-bottom: 2px;
+	margin-top: 1px;
 }
 
 .location {
 	font-size: 20px;
 	font-weight: normal;
+	margin-bottom: 1px;
+	margin-top: 1px;
 }
 
 .description {
 	font-size: 20px;
 	font-style: italic;
 	font-weight: bold;
+	margin-bottom: 1px;
+	margin-top: 1px;
 }
  
 .date {
 	font-size: 20px;
 	font-weight: normal;
+	margin-top: 1px;
+	margin-bottom: 1px;
 }
+
