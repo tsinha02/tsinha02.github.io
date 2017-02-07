@@ -2,7 +2,12 @@ p {
 	text-align: center;
 	font-size: 24px;
 }
-#resize img {
-  max-width:100%;
-  height:auto;
+
+#resize {
+background: url(image.jpg) -130px -140px no-repeat;
+border: 3px double #fff;
+float: left;
+height: 12em;
+margin: .2em 1em 1em 0;
+width: 12em;
 }
