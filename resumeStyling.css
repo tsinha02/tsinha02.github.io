@@ -5,18 +5,12 @@ body {
 	color: DarkBlue;
 }
 
-/*
-Lines 1 - 6 (body {...}) => rule
-`body` in line 1 => selector
-Line 2 (`background-color: indigo;`) => declaration
-A single declaration is a key-value pair
 
-
-h1 {
-	text-align: center;
-	color: yellow;
+h3 {
+	font-size: 24px ;
+	color: DarkBlue;
 }
-
+/*
 p {
 	border-style: dashed;
 	margin-left: 10%;
@@ -24,17 +18,10 @@ p {
 	padding: 50px;
 	background-color: green;
 }
-
-.chorus {
-	font-size: 72px;
+*/
+.title {
+	font-size: 36px;
+	font-weight: bold;
 }
 
-#artist {
-	text-align: right;
-}
 
-p {
-	background-color: orange;
-	font-size: 14px;
-}
-/*
