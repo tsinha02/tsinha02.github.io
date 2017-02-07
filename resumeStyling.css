@@ -5,11 +5,6 @@ body {
 	color: DarkBlue;
 }
 
-#contact {
-	text-align: center;
-	font-size:20px;
-}
-
 h3 {
 	font-size: 24px ;
 	color: DarkBlue;
@@ -17,8 +12,15 @@ h3 {
 	margin-top: 1px;
 	margin-bottom: 1px;
 }
+
 p{
 	margin-top: 1px;
+}
+
+#contact {
+	text-align: center;
+	font-size:20px;
+	font-weight: normal;
 }
 
 #myname {
