@@ -4,7 +4,7 @@ p {
 }
 
 #resize {
-background: url(image.jpg) -130px -140px no-repeat;
+background: url("photo of me.jpg") -130px -140px no-repeat;
 border: 3px double #fff;
 float: left;
 height: 12em;
