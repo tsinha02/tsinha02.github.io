@@ -2,15 +2,7 @@ p {
 	text-align: center;
 	font-size: 24px;
 }
-#resize {
-border: 3px double #333;
-float: left;
-height: 12em;
-margin: .2em 1em 1em 0;
-overflow: hidden;
-width: 12em;
-}
 #resize img {
-margin: -220px 0 0 -210px;
-padding: 6em 0 0 6em;
+  max-width:100%;
+  height:auto;
 }
