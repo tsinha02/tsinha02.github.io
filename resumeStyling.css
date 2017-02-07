@@ -5,6 +5,12 @@ body {
 	color: DarkBlue;
 }
 
+h3 {
+	font-size: 24px ;
+	color: DarkBlue;
+	font-weight: bold;
+}
+
 #myname {
 	text-align: center;
 	font-weight: bold;
@@ -17,21 +23,6 @@ body {
 	font-weight: bold;
 }
 
-}
-h3 {
-	font-size: 24px ;
-	color: DarkBlue;
-	font-weight: bold;
-}
-/*
-p {
-	border-style: dashed;
-	margin-left: 10%;
-	font-size: 8px;
-	padding: 50px;
-	background-color: green;
-}
-*/
 .title {
 	font-size: 28px;
 	font-weight: bold;
@@ -40,7 +31,6 @@ p {
 .location {
 	font-size: 20px;
 	font-weight: normal;
-
 }
 
 .description {
