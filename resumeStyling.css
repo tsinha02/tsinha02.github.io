@@ -7,12 +7,14 @@ body {
 
 #myname {
 	text-align: center;
+	font-weight: bold;
 	font-size: 28px;
 }
 
 #email {
 	text-align: center;
 	font-size: 20px;
+	font-weight: bold;
 }
 
 }
